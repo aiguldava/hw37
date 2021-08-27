@@ -1,0 +1,1 @@
+export const Contacts=()=><h2 style={{color: 'violet'}}>Contacts</h2>

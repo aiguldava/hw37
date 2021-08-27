@@ -1,0 +1,1 @@
+export const About =()=><h2 style={{color: 'violet'}}>About</h2>

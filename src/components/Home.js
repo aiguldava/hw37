@@ -1,0 +1,1 @@
+export const Home =()=><h2 style={{color: 'red'}}>Home Page</h2>
